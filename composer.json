@@ -1,0 +1,10 @@
+{
+  "name": "dev-fusion/birth-number",
+  "description": "Slovak Birth Number utility",
+  "keywords": ["birth-number", "rodne-cislo"],
+  "license": ["BSD-3-Clause", "GPL-2.0", "GPL-3.0"],
+  "autoload": {"psr-4": {"DevFusion\\BirthNumber\\": "src/"}},
+  "require": {
+    "php": "^7.0"
+  }
+}
