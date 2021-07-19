@@ -1,6 +1,6 @@
 <?php
 
-namespace DevFusion\BirthNumber;
+namespace DevFusion;
 
 use DateTime;
 use DateTimeZone;
