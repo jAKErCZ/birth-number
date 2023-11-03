@@ -4,7 +4,7 @@ Slovak Birth Number utility _(sk: Rodné Číslo)_
 
 ## Instalation
 
-`composer require dev-fusion/birth-number`
+`composer require jakercz/birth-number`
 
 ## Defining a Birth Number
 
